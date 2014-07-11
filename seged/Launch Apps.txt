@@ -1,0 +1,1859 @@
+CommandVariations 
+< app_shortcut > 
+我 想   < app_shortcut > 
+我   < app_shortcut > 
+想   < app_shortcut > 
+俺 想   < app_shortcut > 
+我们   < app_shortcut > 
+咱 想   < app_shortcut > 
+想 要   < app_shortcut > 
+咱   < app_shortcut > 
+寡人   < app_shortcut > 
+要   < app_shortcut > 
+朕 想   < app_shortcut > 
+我 要   < app_shortcut > 
+我 希望   < app_shortcut > 
+咱们 想   < app_shortcut > 
+需要   < app_shortcut > 
+咱们   < app_shortcut > 
+我 想 要   < app_shortcut > 
+朕   < app_shortcut > 
+我们 想   < app_shortcut > 
+俺   < app_shortcut > 
+希望   < app_shortcut > 
+寡人 想   < app_shortcut > 
+我 需要   < app_shortcut > 
+请 打开   < common_apps >   应用 
+请 打开   < common_apps > 
+请 打开 应用   < common_apps >   应用 
+想 打开 应用   < common_apps >   应用 
+想 打开 应用   < common_apps > 
+想 打开   < common_apps >   应用 
+打开   < common_apps > 
+请 打开 应用   < common_apps > 
+想 打开   < common_apps > 
+打开 应用   < common_apps >   应用 
+打开 应用   < common_apps > 
+打开   < common_apps >   应用 
+请 用   < common_apps >   应用 
+打开 软件   < common_apps > 
+打开 应用 软件   < common_apps > 
+打开   < common_apps >   程序 
+请 打开 应用 程序   < common_apps >   应用 
+使用   < common_apps > 
+想 开   < common_apps > 
+用 应用   < common_apps >   应用 
+请 执行 应用   < common_apps >   应用 
+想 要 打开   < common_apps >   应用 
+启动   < common_apps > 
+使用 应用   < common_apps > 
+想 开启 应用   < common_apps > 
+想 使用   < common_apps > 
+想 启动 应用   < common_apps >   应用 
+请 执行   < common_apps > 
+想 打开 软件   < common_apps >   应用 
+开始   < common_apps > 
+想 使用   < common_apps >   应用 
+想 用   < common_apps > 
+请 启用   < common_apps >   应用 
+打开 应用 程序   < common_apps >   应用 
+想 开始 应用   < common_apps >   应用 
+想 运行   < common_apps > 
+打开 应用 程序   < common_apps > 
+请 使用 应用   < common_apps >   应用 
+< common_apps >   应用 想 打开 
+想 打开 应用   < common_apps >   应用 软件 
+开启   < common_apps > 
+运行 应用   < common_apps >   应用 
+请 开始   < common_apps >   应用 
+开   < common_apps >   应用 
+开启   < common_apps >   应用 
+开始 应用   < common_apps >   应用 
+打开 应用   < common_apps >   应用 软件 
+请 执行 应用   < common_apps > 
+打开 应用   < common_apps >   软件 
+要 打开 应用   < common_apps > 
+想 运行 应用   < common_apps >   应用 
+想 启动   < common_apps > 
+开 应用   < common_apps >   应用 
+想 用 应用   < common_apps > 
+请 开始 应用   < common_apps > 
+开   < common_apps > 
+想 打开 应用 软件   < common_apps > 
+启用 应用   < common_apps >   应用 
+想 打开 软件   < common_apps > 
+请 开始   < common_apps > 
+请 开始 应用   < common_apps >   应用 
+运行 应用   < common_apps > 
+请 开 应用   < common_apps > 
+请 打开 应用   < common_apps >   应用 软件 
+< common_apps >   打开 
+请 用 应用   < common_apps > 
+请 打开 应用   < common_apps >   软件 
+开始   < common_apps >   应用 
+请 启用   < common_apps > 
+请 打开 应用 程序   < common_apps > 
+请 打开 软件   < common_apps > 
+请 开   < common_apps > 
+要 打开   < common_apps >   应用 
+请 打开   < common_apps >   软件 
+请 打开   < common_apps >   程序 
+开始 应用   < common_apps > 
+打开 程序   < common_apps >   应用 
+想 执行 应用   < common_apps >   应用 
+想 打开 应用 程序   < common_apps >   应用 
+请 开 应用   < common_apps >   应用 
+请 用   < common_apps > 
+运行   < common_apps > 
+想 开启 应用   < common_apps >   应用 
+想 启用   < common_apps >   应用 
+打开   < common_apps >   软件 
+打开   < common_apps >   应用 程序 
+< common_apps >   请 打开 
+请 打开   < common_apps >   应用 程序 
+想 打开   < common_apps >   应用 程序 
+请 运行 应用   < common_apps > 
+请 运行   < common_apps > 
+使用   < common_apps >   应用 
+请 打开 软件   < common_apps >   应用 
+想 开始 应用   < common_apps > 
+想 打开 应用   < common_apps >   程序 
+请 打开 应用   < common_apps >   程序 
+想 打开   < common_apps >   应用 软件 
+想 运行 应用   < common_apps > 
+想 启用   < common_apps > 
+请 开启   < common_apps >   应用 
+要 打开   < common_apps > 
+想 打开 应用   < common_apps >   软件 
+请 打开 应用 软件   < common_apps >   应用 
+想 使用 应用   < common_apps > 
+想 启用 应用   < common_apps > 
+请 开启   < common_apps > 
+启动 应用   < common_apps >   应用 
+想 开 应用   < common_apps > 
+请 启动   < common_apps >   应用 
+想 启用 应用   < common_apps >   应用 
+想 运行   < common_apps >   应用 
+请 使用   < common_apps >   应用 
+想 打开 应用   < common_apps >   应用 程序 
+想 打开   < common_apps >   软件 
+启用   < common_apps >   应用 
+执行 应用   < common_apps > 
+启动   < common_apps >   应用 
+想 执行   < common_apps > 
+请 使用 应用   < common_apps > 
+打开   < common_apps >   应用 软件 
+请 运行 应用   < common_apps >   应用 
+请 用 应用   < common_apps >   应用 
+想 打开 应用 程序   < common_apps > 
+请 启动 应用   < common_apps >   应用 
+想 打开   < common_apps >   程序 
+请 开   < common_apps >   应用 
+启动 应用   < common_apps > 
+使用 应用   < common_apps >   应用 
+执行   < common_apps >   应用 
+请 开启 应用   < common_apps > 
+用   < common_apps > 
+想 使用 应用   < common_apps >   应用 
+执行 应用   < common_apps >   应用 
+请 启动 应用   < common_apps > 
+请 启用 应用   < common_apps > 
+执行   < common_apps > 
+想 开始   < common_apps >   应用 
+请 打开 应用 软件   < common_apps > 
+请 运行   < common_apps >   应用 
+想 开始   < common_apps > 
+想 启动   < common_apps >   应用 
+请 启用 应用   < common_apps >   应用 
+想 用 应用   < common_apps >   应用 
+请 启动   < common_apps > 
+打开 软件   < common_apps >   应用 
+想 用   < common_apps >   应用 
+请 使用   < common_apps > 
+请 打开 程序   < common_apps > 
+想 要 打开 应用   < common_apps > 
+要 打开 应用   < common_apps >   应用 
+想 开 应用   < common_apps >   应用 
+想 要 打开 应用   < common_apps >   应用 
+想 打开 程序   < common_apps > 
+< common_apps >   应用 打开 
+想 开启   < common_apps >   应用 
+想 开   < common_apps >   应用 
+请 打开   < common_apps >   应用 软件 
+打开 应用   < common_apps >   程序 
+请 开启 应用   < common_apps >   应用 
+用   < common_apps >   应用 
+想 要 打开   < common_apps > 
+打开 应用 软件   < common_apps >   应用 
+开启 应用   < common_apps >   应用 
+想 开启   < common_apps > 
+开启 应用   < common_apps > 
+想 打开 应用 软件   < common_apps >   应用 
+开 应用   < common_apps > 
+想 执行   < common_apps >   应用 
+想 打开 程序   < common_apps >   应用 
+启用 应用   < common_apps > 
+打开 程序   < common_apps > 
+启用   < common_apps > 
+想 启动 应用   < common_apps > 
+请 执行   < common_apps >   应用 
+请 打开 应用   < common_apps >   应用 程序 
+运行   < common_apps >   应用 
+用 应用   < common_apps > 
+< common_apps >   应用 请 打开 
+想 执行 应用   < common_apps > 
+< common_apps >   想 打开 
+想 要 开   < common_apps > 
+使用 应用 软件   < common_apps > 
+想 开启 应用 软件   < common_apps > 
+要 打开 应用   < common_apps >   软件 
+< common_apps >   应用 开 
+打开 软件   < common_apps >   软件 
+请 打开 程序   < common_apps >   软件 
+要 打开 应用 程序   < common_apps >   应用 
+想 开始 应用   < common_apps >   应用 程序 
+使用 应用 程序   < common_apps >   应用 
+请 开启 应用 程序   < common_apps >   应用 
+执行 程序   < common_apps >   应用 
+想 启动 应用   < common_apps >   软件 
+打开 软件   < common_apps >   应用 软件 
+< common_apps >   应用 想 启动 
+启用 应用 软件   < common_apps >   应用 
+开启 软件   < common_apps > 
+< common_apps >   开 
+请 启用 软件   < common_apps > 
+执行 应用 软件   < common_apps >   应用 
+想 开启   < common_apps >   程序 
+运行 应用   < common_apps >   软件 
+想 要 执行   < common_apps > 
+开 应用 程序   < common_apps > 
+< common_apps >   应用 请 开启 
+想 开 应用   < common_apps >   应用 程序 
+使用   < common_apps >   程序 
+请 开启 应用   < common_apps >   应用 程序 
+请 开 软件   < common_apps > 
+使用   < common_apps >   应用 程序 
+想 启用 应用 软件   < common_apps >   应用 
+想 使用   < common_apps >   应用 程序 
+开   < common_apps >   应用 程序 
+请 使用 软件   < common_apps > 
+请 运行 应用 软件   < common_apps >   应用 
+想 运行 应用   < common_apps >   应用 程序 
+< common_apps >   应用 请 启用 
+想 打开 软件   < common_apps >   程序 
+使用 软件   < common_apps > 
+想 启动   < common_apps >   软件 
+请 执行 应用 软件   < common_apps >   应用 
+想 运行 应用 软件   < common_apps >   应用 
+运行   < common_apps >   应用 程序 
+< common_apps >   应用 请 开始 
+启动 程序   < common_apps >   应用 
+开 程序   < common_apps > 
+想 开始   < common_apps >   程序 
+请 使用 应用   < common_apps >   程序 
+想 执行 应用 软件   < common_apps >   应用 
+运行 软件   < common_apps > 
+想 运行 应用   < common_apps >   软件 
+想 启用 应用 程序   < common_apps > 
+用 软件   < common_apps > 
+请 开 程序   < common_apps >   应用 
+想 打开 应用 程序   < common_apps >   应用 程序 
+要 开始 应用   < common_apps > 
+请 执行 应用   < common_apps >   软件 
+想 用 软件   < common_apps >   应用 
+用 应用   < common_apps >   应用 软件 
+请 使用 程序   < common_apps > 
+请 运行 应用   < common_apps >   软件 
+想 打开 软件   < common_apps >   应用 软件 
+想 要 开启   < common_apps >   应用 
+想 用 应用 软件   < common_apps >   应用 
+想 要 打开 程序   < common_apps > 
+开 软件   < common_apps > 
+请 运行 应用   < common_apps >   应用 程序 
+想 运行   < common_apps >   软件 
+要 打开   < common_apps >   应用 软件 
+请 开启 软件   < common_apps > 
+要 运行 应用   < common_apps > 
+要 用 应用   < common_apps > 
+用 应用 软件   < common_apps > 
+开 应用 程序   < common_apps >   应用 
+请 运行 应用 程序   < common_apps > 
+想 要 打开   < common_apps >   应用 程序 
+要 使用   < common_apps > 
+用 应用 程序   < common_apps >   应用 
+请 使用 应用   < common_apps >   应用 程序 
+请 使用 应用 软件   < common_apps > 
+要 开启   < common_apps > 
+< common_apps >   请 运行 
+想 用 软件   < common_apps > 
+请 开启 应用 软件   < common_apps > 
+想 开启   < common_apps >   软件 
+想 要 使用 应用   < common_apps > 
+< common_apps >   开启 
+请 运行   < common_apps >   程序 
+请 启动 应用   < common_apps >   程序 
+打开 应用 软件   < common_apps >   应用 软件 
+想 开始 应用 软件   < common_apps > 
+请 执行   < common_apps >   应用 程序 
+想 要 执行 应用   < common_apps > 
+想 开 程序   < common_apps > 
+想 要 使用 应用   < common_apps >   应用 
+要 启用   < common_apps > 
+< common_apps >   应用 请 运行 
+要 打开 应用 程序   < common_apps > 
+请 启用 程序   < common_apps > 
+打开 应用 程序   < common_apps >   应用 软件 
+< common_apps >   想 运行 
+< common_apps >   应用 想 使用 
+想 开始 软件   < common_apps >   应用 
+请 开始 应用 程序   < common_apps >   应用 
+请 开始 软件   < common_apps > 
+想 启动 应用 软件   < common_apps > 
+想 要 用   < common_apps > 
+请 使用 软件   < common_apps >   应用 
+请 运行   < common_apps >   软件 
+请 开启   < common_apps >   软件 
+请 打开 程序   < common_apps >   应用 软件 
+想 开始   < common_apps >   应用 软件 
+请 开始 程序   < common_apps > 
+< common_apps >   应用 启用 
+< common_apps >   程序 想 打开 
+要 运行   < common_apps > 
+请 启动 软件   < common_apps >   应用 
+想 执行 程序   < common_apps > 
+想 要 打开 软件   < common_apps > 
+想 启动 应用   < common_apps >   应用 程序 
+启用   < common_apps >   程序 
+想 开启 应用 程序   < common_apps > 
+请 使用 应用 程序   < common_apps >   应用 
+运行 应用 程序   < common_apps >   应用 
+想 开始 程序   < common_apps >   应用 
+请 开启   < common_apps >   程序 
+请 使用   < common_apps >   程序 
+想 运行   < common_apps >   程序 
+请 开 程序   < common_apps > 
+使用   < common_apps >   应用 软件 
+请 启用 应用   < common_apps >   应用 软件 
+执行   < common_apps >   应用 软件 
+想 启动 软件   < common_apps > 
+请 启动 应用 软件   < common_apps > 
+< common_apps >   想 执行 
+想 使用 应用 软件   < common_apps >   应用 
+请 打开 软件   < common_apps >   应用 程序 
+用   < common_apps >   应用 程序 
+想 打开 软件   < common_apps >   软件 
+< common_apps >   程序 打开 
+开始 应用   < common_apps >   应用 软件 
+想 用   < common_apps >   软件 
+开 应用   < common_apps >   程序 
+请 执行 应用 程序   < common_apps > 
+开始 应用   < common_apps >   软件 
+想 要 开启   < common_apps > 
+要 启动 应用   < common_apps >   应用 
+开 应用   < common_apps >   应用 软件 
+执行 应用   < common_apps >   应用 程序 
+请 开启 应用 程序   < common_apps > 
+想 要 启用   < common_apps >   应用 
+想 开始   < common_apps >   软件 
+执行   < common_apps >   应用 程序 
+请 运行 应用   < common_apps >   应用 软件 
+启动 应用   < common_apps >   应用 程序 
+想 开始 应用   < common_apps >   程序 
+请 开   < common_apps >   应用 软件 
+想 打开 应用 软件   < common_apps >   程序 
+想 启用 应用   < common_apps >   应用 程序 
+想 使用 程序   < common_apps >   应用 
+请 开 应用 软件   < common_apps > 
+开启   < common_apps >   应用 软件 
+使用 应用   < common_apps >   软件 
+想 执行   < common_apps >   应用 程序 
+要 使用 应用   < common_apps >   应用 
+想 打开 软件   < common_apps >   应用 程序 
+请 使用   < common_apps >   软件 
+用 应用   < common_apps >   程序 
+启用   < common_apps >   软件 
+请 使用   < common_apps >   应用 程序 
+想 要 启用   < common_apps > 
+< common_apps >   请 开启 
+请 开启 应用   < common_apps >   程序 
+要 打开 程序   < common_apps > 
+请 开 应用   < common_apps >   应用 软件 
+开启   < common_apps >   软件 
+想 开始 程序   < common_apps > 
+请 启用 应用 软件   < common_apps > 
+想 启动   < common_apps >   应用 软件 
+想 要 启动   < common_apps >   应用 
+< common_apps >   程序 请 打开 
+想 开 应用   < common_apps >   程序 
+请 开始 应用   < common_apps >   程序 
+想 开 软件   < common_apps >   应用 
+请 启用 应用 程序   < common_apps > 
+开始 应用   < common_apps >   应用 程序 
+想 启用   < common_apps >   应用 软件 
+想 运行 程序   < common_apps > 
+请 打开 应用 程序   < common_apps >   应用 软件 
+想 要 打开   < common_apps >   软件 
+启动   < common_apps >   应用 软件 
+请 开始   < common_apps >   软件 
+请 打开 应用 软件   < common_apps >   程序 
+想 使用 应用   < common_apps >   应用 程序 
+要 开 应用   < common_apps > 
+想 用 应用   < common_apps >   程序 
+请 用   < common_apps >   软件 
+要 开启 应用   < common_apps > 
+打开 程序   < common_apps >   软件 
+请 开启 应用   < common_apps >   软件 
+要 打开 程序   < common_apps >   应用 
+请 开 软件   < common_apps >   应用 
+开始   < common_apps >   程序 
+请 打开 软件   < common_apps >   程序 
+请 打开 应用 软件   < common_apps >   应用 程序 
+请 启动 应用 程序   < common_apps > 
+< common_apps >   请 开 
+想 要 用   < common_apps >   应用 
+请 执行   < common_apps >   应用 软件 
+< common_apps >   应用 想 运行 
+< common_apps >   用 
+想 要 开启 应用   < common_apps > 
+请 开始 软件   < common_apps >   应用 
+启用 程序   < common_apps >   应用 
+请 用 应用   < common_apps >   应用 软件 
+想 打开 程序   < common_apps >   应用 程序 
+< common_apps >   应用 想 执行 
+请 开始 应用   < common_apps >   软件 
+想 开 程序   < common_apps >   应用 
+想 开始 应用 程序   < common_apps > 
+请 打开 程序   < common_apps >   程序 
+启动 应用 程序   < common_apps >   应用 
+想 要 用 应用   < common_apps >   应用 
+想 要 启用 应用   < common_apps >   应用 
+要 启动 应用   < common_apps > 
+启用 应用   < common_apps >   应用 程序 
+请 启动   < common_apps >   应用 软件 
+开始   < common_apps >   软件 
+运行 应用   < common_apps >   应用 软件 
+请 开   < common_apps >   软件 
+< common_apps >   应用 请 用 
+启动 应用   < common_apps >   软件 
+想 打开 程序   < common_apps >   应用 软件 
+要 用 应用   < common_apps >   应用 
+< common_apps >   想 开启 
+开启 应用 程序   < common_apps > 
+开启 应用   < common_apps >   程序 
+想 启用 应用   < common_apps >   应用 软件 
+< common_apps >   想 开 
+开始 程序   < common_apps > 
+请 开   < common_apps >   程序 
+执行 应用   < common_apps >   软件 
+运行 应用 软件   < common_apps > 
+用 应用 软件   < common_apps >   应用 
+想 使用 软件   < common_apps > 
+想 开始   < common_apps >   应用 程序 
+要 打开 软件   < common_apps > 
+启动 应用   < common_apps >   程序 
+开始 程序   < common_apps >   应用 
+打开 应用 程序   < common_apps >   程序 
+想 执行   < common_apps >   应用 软件 
+< common_apps >   软件 请 打开 
+想 用 应用 程序   < common_apps > 
+请 运行 程序   < common_apps > 
+执行 应用   < common_apps >   应用 软件 
+请 启动 应用   < common_apps >   软件 
+请 启动 应用 程序   < common_apps >   应用 
+运行 应用   < common_apps >   程序 
+启动 应用 软件   < common_apps > 
+< common_apps >   应用 想 用 
+< common_apps >   应用 运行 
+想 启动 应用 程序   < common_apps >   应用 
+请 开始 应用   < common_apps >   应用 程序 
+要 执行   < common_apps > 
+< common_apps >   运行 
+< common_apps >   启用 
+用 应用   < common_apps >   应用 程序 
+请 开 应用   < common_apps >   软件 
+开启 应用 程序   < common_apps >   应用 
+想 开 应用 程序   < common_apps >   应用 
+想 启动 软件   < common_apps >   应用 
+要 开 应用   < common_apps >   应用 
+打开 应用 软件   < common_apps >   应用 程序 
+想 启用 程序   < common_apps > 
+< common_apps >   请 启用 
+想 开 应用 软件   < common_apps > 
+请 打开 应用 程序   < common_apps >   应用 程序 
+请 执行 应用   < common_apps >   应用 软件 
+想 开   < common_apps >   应用 程序 
+想 打开 程序   < common_apps >   软件 
+要 开始   < common_apps >   应用 
+请 用 应用 程序   < common_apps > 
+< common_apps >   应用 请 启动 
+想 使用   < common_apps >   应用 软件 
+想 开启 应用 程序   < common_apps >   应用 
+要 打开 软件   < common_apps >   应用 
+要 运行   < common_apps >   应用 
+想 要 打开 应用 程序   < common_apps > 
+请 开始 应用   < common_apps >   应用 软件 
+< common_apps >   要 打开 
+想 开始 应用 程序   < common_apps >   应用 
+想 要 打开 应用 软件   < common_apps >   应用 
+想 运行 应用 程序   < common_apps > 
+< common_apps >   启动 
+请 运行   < common_apps >   应用 软件 
+请 开 应用   < common_apps >   程序 
+执行 应用 程序   < common_apps >   应用 
+执行 应用 程序   < common_apps > 
+启动 软件   < common_apps >   应用 
+< common_apps >   请 启动 
+要 开始 应用   < common_apps >   应用 
+想 启用   < common_apps >   软件 
+想 启用 应用 软件   < common_apps > 
+请 开 应用   < common_apps >   应用 程序 
+想 执行   < common_apps >   软件 
+想 要 打开 应用   < common_apps >   应用 程序 
+开启 应用   < common_apps >   软件 
+想 要 开启 应用   < common_apps >   应用 
+请 开始   < common_apps >   应用 程序 
+要 执行   < common_apps >   应用 
+< common_apps >   应用 程序 打开 
+请 执行   < common_apps >   程序 
+请 开启 应用 软件   < common_apps >   应用 
+请 启用   < common_apps >   软件 
+请 打开 应用 程序   < common_apps >   软件 
+执行 应用   < common_apps >   程序 
+< common_apps >   想 启用 
+开始 应用 程序   < common_apps > 
+想 开 软件   < common_apps > 
+开始 软件   < common_apps >   应用 
+< common_apps >   应用 请 开 
+想 启用 应用   < common_apps >   程序 
+请 用   < common_apps >   应用 软件 
+使用 应用   < common_apps >   程序 
+< common_apps >   想 开始 
+想 启动 应用 程序   < common_apps > 
+要 打开 应用   < common_apps >   程序 
+开启 程序   < common_apps >   应用 
+请 用 软件   < common_apps >   应用 
+想 用 应用   < common_apps >   应用 软件 
+请 启用 应用   < common_apps >   应用 程序 
+< common_apps >   应用 软件 想 打开 
+请 打开 软件   < common_apps >   应用 软件 
+想 启用 应用 程序   < common_apps >   应用 
+想 要 打开 应用 程序   < common_apps >   应用 
+请 开始   < common_apps >   应用 软件 
+启用 软件   < common_apps >   应用 
+< common_apps >   应用 程序 请 打开 
+请 开始 应用 程序   < common_apps > 
+运行 软件   < common_apps >   应用 
+请 打开 应用 软件   < common_apps >   软件 
+开启 软件   < common_apps >   应用 
+执行 应用 软件   < common_apps > 
+开启 程序   < common_apps > 
+开始 应用 程序   < common_apps >   应用 
+使用 程序   < common_apps > 
+想 执行   < common_apps >   程序 
+要 运行 应用   < common_apps >   应用 
+请 执行 应用   < common_apps >   应用 程序 
+请 使用 应用 程序   < common_apps > 
+执行   < common_apps >   程序 
+< common_apps >   应用 执行 
+请 执行 程序   < common_apps >   应用 
+想 使用 应用   < common_apps >   软件 
+使用 应用   < common_apps >   应用 程序 
+请 用 应用 程序   < common_apps >   应用 
+想 用 应用   < common_apps >   应用 程序 
+要 打开 应用   < common_apps >   应用 软件 
+启用 程序   < common_apps > 
+要 启用 应用   < common_apps >   应用 
+想 启动 程序   < common_apps >   应用 
+想 运行 应用 程序   < common_apps >   应用 
+想 开启 软件   < common_apps >   应用 
+想 开启   < common_apps >   应用 程序 
+要 启用   < common_apps >   应用 
+请 开   < common_apps >   应用 程序 
+想 要 打开 应用   < common_apps >   程序 
+请 打开 应用 软件   < common_apps >   应用 软件 
+想 要 开 应用   < common_apps >   应用 
+启动   < common_apps >   程序 
+想 启动   < common_apps >   程序 
+开 应用   < common_apps >   应用 程序 
+想 要 打开 应用   < common_apps >   应用 软件 
+想 要 开 应用   < common_apps > 
+要 打开   < common_apps >   应用 程序 
+开始 应用 软件   < common_apps > 
+想 打开 应用 软件   < common_apps >   软件 
+请 用   < common_apps >   应用 程序 
+请 运行 应用 软件   < common_apps > 
+想 要 启动   < common_apps > 
+请 用 应用   < common_apps >   应用 程序 
+请 用 应用   < common_apps >   程序 
+请 开启   < common_apps >   应用 程序 
+想 开始 应用   < common_apps >   应用 软件 
+想 用 应用   < common_apps >   软件 
+想 开   < common_apps >   软件 
+想 启用 软件   < common_apps > 
+想 开始 软件   < common_apps > 
+< common_apps >   开始 
+想 执行 应用 软件   < common_apps > 
+开   < common_apps >   程序 
+请 启动 应用   < common_apps >   应用 软件 
+使用 应用 程序   < common_apps > 
+启动 应用   < common_apps >   应用 软件 
+请 启用 应用   < common_apps >   软件 
+要 开始   < common_apps > 
+请 执行   < common_apps >   软件 
+请 启动   < common_apps >   软件 
+请 开始 应用 软件   < common_apps > 
+想 执行 应用   < common_apps >   应用 软件 
+请 开启 应用   < common_apps >   应用 软件 
+请 启用 应用   < common_apps >   程序 
+开启 应用 软件   < common_apps >   应用 
+运行 应用   < common_apps >   应用 程序 
+想 开启 应用   < common_apps >   应用 软件 
+打开 应用 软件   < common_apps >   软件 
+启动 程序   < common_apps > 
+启用   < common_apps >   应用 程序 
+想 启动 应用 软件   < common_apps >   应用 
+请 开 应用 程序   < common_apps >   应用 
+想 用 应用 程序   < common_apps >   应用 
+想 要 运行 应用   < common_apps > 
+想 要 打开 应用   < common_apps >   软件 
+要 执行 应用   < common_apps > 
+使用   < common_apps >   软件 
+想 用   < common_apps >   应用 程序 
+要 使用 应用   < common_apps > 
+想 开   < common_apps >   程序 
+< common_apps >   应用 想 开 
+想 执行 程序   < common_apps >   应用 
+想 开 应用   < common_apps >   软件 
+< common_apps >   应用 要 打开 
+请 启动 软件   < common_apps > 
+想 开始 应用 软件   < common_apps >   应用 
+请 启用 应用 程序   < common_apps >   应用 
+请 执行 应用   < common_apps >   程序 
+要 开   < common_apps >   应用 
+请 用 应用   < common_apps >   软件 
+要 用   < common_apps > 
+打开 程序   < common_apps >   程序 
+开启   < common_apps >   程序 
+用 程序   < common_apps > 
+要 打开 应用   < common_apps >   应用 程序 
+想 使用 应用 程序   < common_apps >   应用 
+打开 应用 程序   < common_apps >   软件 
+< common_apps >   请 使用 
+启用 应用 程序   < common_apps >   应用 
+执行 软件   < common_apps >   应用 
+要 开启   < common_apps >   应用 
+想 使用   < common_apps >   软件 
+启用 应用   < common_apps >   软件 
+请 开始 程序   < common_apps >   应用 
+想 要 打开 应用 软件   < common_apps > 
+开 应用 软件   < common_apps >   应用 
+请 运行 程序   < common_apps >   应用 
+想 开启 应用   < common_apps >   软件 
+请 打开 程序   < common_apps >   应用 程序 
+想 使用 程序   < common_apps > 
+执行 软件   < common_apps > 
+想 打开 应用 软件   < common_apps >   应用 软件 
+想 运行   < common_apps >   应用 软件 
+< common_apps >   应用 软件 请 打开 
+想 用 应用 软件   < common_apps > 
+开启   < common_apps >   应用 程序 
+请 用 程序   < common_apps > 
+运行   < common_apps >   程序 
+请 启用 软件   < common_apps >   应用 
+用 应用 程序   < common_apps > 
+开始 应用 软件   < common_apps >   应用 
+想 要 开始   < common_apps > 
+< common_apps >   应用 开启 
+请 启动   < common_apps >   应用 程序 
+请 开启 程序   < common_apps > 
+要 启用 应用   < common_apps > 
+开 应用   < common_apps >   软件 
+< common_apps >   应用 程序 想 打开 
+想 要 开始 应用   < common_apps >   应用 
+启动 软件   < common_apps > 
+想 启用 应用   < common_apps >   软件 
+请 开 应用 程序   < common_apps > 
+使用 软件   < common_apps >   应用 
+打开 程序   < common_apps >   应用 程序 
+想 要 打开   < common_apps >   应用 软件 
+想 要 打开 程序   < common_apps >   应用 
+想 用   < common_apps >   应用 软件 
+想 运行 应用   < common_apps >   应用 软件 
+开 应用 软件   < common_apps > 
+< common_apps >   应用 使用 
+请 开始 应用 软件   < common_apps >   应用 
+要 打开   < common_apps >   程序 
+开   < common_apps >   应用 软件 
+想 使用 应用 软件   < common_apps > 
+打开 应用 软件   < common_apps >   程序 
+请 运行 应用 程序   < common_apps >   应用 
+想 开始 应用   < common_apps >   软件 
+想 要 执行   < common_apps >   应用 
+使用 程序   < common_apps >   应用 
+< common_apps >   软件 打开 
+想 要 运行 应用   < common_apps >   应用 
+想 要 使用   < common_apps >   应用 
+请 用   < common_apps >   程序 
+< common_apps >   请 用 
+启动 应用 程序   < common_apps > 
+想 开   < common_apps >   应用 软件 
+< common_apps >   应用 想 开启 
+< common_apps >   想 启动 
+< common_apps >   想 要 打开 
+请 用 应用 软件   < common_apps > 
+打开 程序   < common_apps >   应用 软件 
+想 要 启动 应用   < common_apps > 
+启用 应用 程序   < common_apps > 
+用   < common_apps >   应用 软件 
+想 运行 软件   < common_apps >   应用 
+请 执行 应用 软件   < common_apps > 
+< common_apps >   请 开始 
+想 启用 程序   < common_apps >   应用 
+想 执行 应用   < common_apps >   软件 
+想 启动 应用   < common_apps >   应用 软件 
+要 开启 应用   < common_apps >   应用 
+想 要 启动 应用   < common_apps >   应用 
+请 使用 程序   < common_apps >   应用 
+想 开启 应用 软件   < common_apps >   应用 
+运行   < common_apps >   应用 软件 
+< common_apps >   应用 想 启用 
+要 打开 应用 软件   < common_apps >   应用 
+想 用   < common_apps >   程序 
+开 程序   < common_apps >   应用 
+想 使用 软件   < common_apps >   应用 
+用 应用   < common_apps >   软件 
+开   < common_apps >   软件 
+启用 应用 软件   < common_apps > 
+请 执行 软件   < common_apps > 
+请 启动 应用 软件   < common_apps >   应用 
+< common_apps >   应用 请 使用 
+请 执行 软件   < common_apps >   应用 
+想 启动   < common_apps >   应用 程序 
+运行 程序   < common_apps >   应用 
+< common_apps >   应用 开始 
+< common_apps >   应用 请 执行 
+请 执行 程序   < common_apps > 
+想 要 开始 应用   < common_apps > 
+要 启动   < common_apps > 
+要 执行 应用   < common_apps >   应用 
+想 运行 软件   < common_apps > 
+请 运行   < common_apps >   应用 程序 
+想 执行 应用 程序   < common_apps > 
+请 启动 程序   < common_apps > 
+想 要 用 应用   < common_apps > 
+请 启用 应用 软件   < common_apps >   应用 
+想 执行 应用   < common_apps >   应用 程序 
+想 运行 程序   < common_apps >   应用 
+请 启用   < common_apps >   应用 软件 
+请 启动   < common_apps >   程序 
+想 启用 软件   < common_apps >   应用 
+想 运行 应用 软件   < common_apps > 
+想 打开 应用 程序   < common_apps >   程序 
+想 打开 程序   < common_apps >   程序 
+想 要 执行 应用   < common_apps >   应用 
+请 启动 应用   < common_apps >   应用 程序 
+想 开启 程序   < common_apps > 
+请 开启   < common_apps >   应用 软件 
+运行   < common_apps >   软件 
+请 用 程序   < common_apps >   应用 
+想 用 程序   < common_apps >   应用 
+执行   < common_apps >   软件 
+打开 应用 程序   < common_apps >   应用 程序 
+启用 应用   < common_apps >   应用 软件 
+< common_apps >   想 使用 
+开始   < common_apps >   应用 程序 
+请 用 应用 软件   < common_apps >   应用 
+请 启动 程序   < common_apps >   应用 
+请 开始   < common_apps >   程序 
+想 开启 应用   < common_apps >   应用 程序 
+想 开启 应用   < common_apps >   程序 
+想 要 开始   < common_apps >   应用 
+要 启动   < common_apps >   应用 
+< common_apps >   应用 想 要 打开 
+想 开 应用 软件   < common_apps >   应用 
+请 打开 应用 程序   < common_apps >   程序 
+想 开启   < common_apps >   应用 软件 
+想 执行 应用   < common_apps >   程序 
+想 执行 软件   < common_apps >   应用 
+想 打开 应用 软件   < common_apps >   应用 程序 
+请 开启 软件   < common_apps >   应用 
+运行 程序   < common_apps > 
+想 启用   < common_apps >   应用 程序 
+想 要 开   < common_apps >   应用 
+请 启用 程序   < common_apps >   应用 
+想 执行 软件   < common_apps > 
+开始   < common_apps >   应用 软件 
+运行 应用 软件   < common_apps >   应用 
+要 用   < common_apps >   应用 
+用   < common_apps >   软件 
+想 使用 应用   < common_apps >   程序 
+启用 应用   < common_apps >   程序 
+< common_apps >   应用 启动 
+要 打开 应用 软件   < common_apps > 
+运行 应用 程序   < common_apps > 
+想 要 使用   < common_apps > 
+使用 应用 软件   < common_apps >   应用 
+请 运行 软件   < common_apps > 
+< common_apps >   应用 软件 打开 
+想 运行 应用   < common_apps >   程序 
+想 开 应用   < common_apps >   应用 软件 
+启动   < common_apps >   应用 程序 
+想 打开 应用 程序   < common_apps >   软件 
+请 使用 应用   < common_apps >   软件 
+< common_apps >   执行 
+请 启用   < common_apps >   应用 程序 
+想 开启 程序   < common_apps >   应用 
+想 运行   < common_apps >   应用 程序 
+想 打开 应用 程序   < common_apps >   应用 软件 
+想 启动 程序   < common_apps > 
+用 软件   < common_apps >   应用 
+用   < common_apps >   程序 
+想 使用 应用 程序   < common_apps > 
+启用   < common_apps >   应用 软件 
+执行 程序   < common_apps > 
+要 使用   < common_apps >   应用 
+想 开 应用 程序   < common_apps > 
+开始 软件   < common_apps > 
+启动   < common_apps >   软件 
+用 程序   < common_apps >   应用 
+开启 应用   < common_apps >   应用 程序 
+< common_apps >   应用 用 
+想 要 打开 软件   < common_apps >   应用 
+请 运行 应用   < common_apps >   程序 
+请 执行 应用 程序   < common_apps >   应用 
+打开 软件   < common_apps >   应用 程序 
+想 使用   < common_apps >   程序 
+要 打开   < common_apps >   软件 
+开始 应用   < common_apps >   程序 
+使用 应用   < common_apps >   应用 软件 
+请 运行 软件   < common_apps >   应用 
+请 打开   < installed_apps > 
+打开 应用   < installed_apps >   应用 
+请 打开 应用   < installed_apps >   应用 
+请 打开   < installed_apps >   应用 
+想 打开 应用   < installed_apps >   应用 
+想 打开   < installed_apps >   应用 
+打开   < installed_apps > 
+请 打开 应用   < installed_apps > 
+想 打开 应用   < installed_apps > 
+打开 应用   < installed_apps > 
+打开   < installed_apps >   应用 
+想 打开   < installed_apps > 
+想 打开 软件   < installed_apps > 
+想 开启   < installed_apps >   应用 
+想 启用 应用   < installed_apps >   应用 
+请 启动 应用   < installed_apps > 
+想 开启 应用   < installed_apps >   应用 
+请 开始   < installed_apps > 
+请 开 应用   < installed_apps > 
+请 打开 应用 程序   < installed_apps >   应用 
+开启 应用   < installed_apps >   应用 
+开 应用   < installed_apps > 
+想 使用 应用   < installed_apps >   应用 
+想 打开 软件   < installed_apps >   应用 
+< installed_apps >   请 打开 
+想 启动 应用   < installed_apps >   应用 
+要 打开   < installed_apps > 
+想 执行 应用   < installed_apps >   应用 
+请 开启   < installed_apps > 
+< installed_apps >   打开 
+打开   < installed_apps >   软件 
+打开 软件   < installed_apps >   应用 
+使用   < installed_apps > 
+打开   < installed_apps >   程序 
+请 开始   < installed_apps >   应用 
+要 打开   < installed_apps >   应用 
+请 启动   < installed_apps > 
+想 运行   < installed_apps > 
+请 启动   < installed_apps >   应用 
+运行   < installed_apps > 
+请 开启   < installed_apps >   应用 
+用 应用   < installed_apps >   应用 
+< installed_apps >   应用 想 打开 
+请 打开   < installed_apps >   程序 
+开始 应用   < installed_apps > 
+想 打开   < installed_apps >   软件 
+请 打开 程序   < installed_apps >   应用 
+想 打开 应用 程序   < installed_apps >   应用 
+请 使用 应用   < installed_apps > 
+开   < installed_apps > 
+要 打开 应用   < installed_apps >   应用 
+打开 软件   < installed_apps > 
+请 打开 应用 程序   < installed_apps > 
+打开 程序   < installed_apps >   应用 
+< installed_apps >   应用 打开 
+打开 应用   < installed_apps >   应用 程序 
+想 开始   < installed_apps >   应用 
+想 开始 应用   < installed_apps > 
+请 运行 应用   < installed_apps > 
+开启 应用   < installed_apps > 
+请 开启 应用   < installed_apps > 
+请 打开 应用   < installed_apps >   程序 
+开启   < installed_apps > 
+想 启用 应用   < installed_apps > 
+执行   < installed_apps >   应用 
+想 要 打开   < installed_apps >   应用 
+请 执行 应用   < installed_apps >   应用 
+请 启用 应用   < installed_apps > 
+想 启用   < installed_apps > 
+启用   < installed_apps >   应用 
+打开   < installed_apps >   应用 程序 
+想 开启 应用   < installed_apps > 
+请 开   < installed_apps >   应用 
+想 开启   < installed_apps > 
+想 打开 应用   < installed_apps >   软件 
+打开 应用   < installed_apps >   应用 软件 
+打开   < installed_apps >   应用 软件 
+想 用   < installed_apps >   应用 
+启动 应用   < installed_apps > 
+想 打开 应用   < installed_apps >   应用 软件 
+想 开始 应用   < installed_apps >   应用 
+开   < installed_apps >   应用 
+启用   < installed_apps > 
+想 启动   < installed_apps >   应用 
+用   < installed_apps > 
+想 使用   < installed_apps >   应用 
+请 打开 应用 软件   < installed_apps >   应用 
+请 打开 软件   < installed_apps >   应用 
+想 要 打开 应用   < installed_apps >   应用 
+想 打开 应用 软件   < installed_apps >   应用 
+请 打开 软件   < installed_apps > 
+想 要 打开 应用   < installed_apps > 
+想 运行 应用   < installed_apps > 
+运行 应用   < installed_apps >   应用 
+请 启用 应用   < installed_apps >   应用 
+想 用   < installed_apps > 
+请 执行   < installed_apps >   应用 
+用 应用   < installed_apps > 
+请 启用   < installed_apps > 
+想 执行   < installed_apps >   应用 
+请 开启 应用   < installed_apps >   应用 
+想 开   < installed_apps > 
+想 打开   < installed_apps >   应用 软件 
+执行   < installed_apps > 
+请 打开 应用   < installed_apps >   软件 
+想 打开 应用   < installed_apps >   应用 程序 
+执行 应用   < installed_apps > 
+想 用 应用   < installed_apps >   应用 
+请 打开 程序   < installed_apps > 
+想 运行   < installed_apps >   应用 
+请 用 应用   < installed_apps >   应用 
+想 运行 应用   < installed_apps >   应用 
+想 启动 应用   < installed_apps > 
+启用 应用   < installed_apps > 
+打开 应用 软件   < installed_apps >   应用 
+想 启用   < installed_apps >   应用 
+请 打开 应用   < installed_apps >   应用 程序 
+想 打开 应用 程序   < installed_apps > 
+想 打开 程序   < installed_apps >   应用 
+请 执行   < installed_apps > 
+想 开   < installed_apps >   应用 
+想 启动   < installed_apps > 
+打开 应用 软件   < installed_apps > 
+开启   < installed_apps >   应用 
+请 使用   < installed_apps >   应用 
+打开 程序   < installed_apps > 
+想 开始   < installed_apps > 
+请 开始 应用   < installed_apps > 
+< installed_apps >   应用 请 打开 
+打开 应用 程序   < installed_apps >   应用 
+开始 应用   < installed_apps >   应用 
+请 用   < installed_apps > 
+请 启用   < installed_apps >   应用 
+请 运行   < installed_apps > 
+启动 应用   < installed_apps >   应用 
+想 开 应用   < installed_apps > 
+启动   < installed_apps > 
+开始   < installed_apps > 
+想 打开 程序   < installed_apps > 
+请 打开   < installed_apps >   应用 软件 
+想 用 应用   < installed_apps > 
+执行 应用   < installed_apps >   应用 
+请 打开   < installed_apps >   软件 
+请 开   < installed_apps > 
+开 应用   < installed_apps >   应用 
+< app_shortcut > 
+请 运行   < installed_apps >   应用 
+想   < app_shortcut > 
+想 使用   < installed_apps > 
+请 启动 应用   < installed_apps >   应用 
+运行   < installed_apps >   应用 
+< installed_apps >   想 打开 
+想 使用 应用   < installed_apps > 
+请 打开 应用 软件   < installed_apps > 
+请 打开 应用   < installed_apps >   应用 软件 
+启用 应用   < installed_apps >   应用 
+请 执行 应用   < installed_apps > 
+请 用   < installed_apps >   应用 
+想 打开 应用   < installed_apps >   程序 
+想 打开 应用 软件   < installed_apps > 
+打开 应用 程序   < installed_apps > 
+想 打开   < installed_apps >   程序 
+请 打开   < installed_apps >   应用 程序 
+打开 应用   < installed_apps >   程序 
+想 执行 应用   < installed_apps > 
+想 开 应用   < installed_apps >   应用 
+请 使用 应用   < installed_apps >   应用 
+使用 应用   < installed_apps > 
+启动   < installed_apps >   应用 
+使用 应用   < installed_apps >   应用 
+使用   < installed_apps >   应用 
+运行 应用   < installed_apps > 
+请 开 应用   < installed_apps >   应用 
+请 用 应用   < installed_apps > 
+想 要 打开   < installed_apps > 
+请 运行 应用   < installed_apps >   应用 
+开始   < installed_apps >   应用 
+想 打开   < installed_apps >   应用 程序 
+请 使用   < installed_apps > 
+打开 应用   < installed_apps >   软件 
+用   < installed_apps >   应用 
+要 打开 应用   < installed_apps > 
+想 用 软件   < installed_apps > 
+< installed_apps >   想 开始 
+想 要 开 应用   < installed_apps >   应用 
+打开 软件   < installed_apps >   应用 程序 
+开始 应用 程序   < installed_apps >   应用 
+想 执行 软件   < installed_apps > 
+打开 软件   < installed_apps >   应用 软件 
+请 用 应用   < installed_apps >   程序 
+运行 软件   < installed_apps >   应用 
+< installed_apps >   应用 想 开始 
+请 使用 程序   < installed_apps >   应用 
+想 使用   < installed_apps >   软件 
+使用   < installed_apps >   程序 
+想 要 打开 软件   < installed_apps > 
+想 开启   < installed_apps >   应用 软件 
+想 运行   < installed_apps >   程序 
+请 启动 软件   < installed_apps >   应用 
+想 用 应用   < installed_apps >   应用 软件 
+开始   < installed_apps >   应用 软件 
+要 执行 应用   < installed_apps >   应用 
+运行 应用 程序   < installed_apps >   应用 
+要 启用   < installed_apps > 
+想 用 软件   < installed_apps >   应用 
+< installed_apps >   程序 请 打开 
+想 打开 软件   < installed_apps >   软件 
+想 要 开启 应用   < installed_apps >   应用 
+请 开始 应用   < installed_apps >   软件 
+要 打开 应用 软件   < installed_apps >   应用 
+请 运行 应用 程序   < installed_apps >   应用 
+想 启动   < installed_apps >   程序 
+开启   < installed_apps >   应用 程序 
+启动   < installed_apps >   软件 
+想 开   < installed_apps >   程序 
+请 执行 应用 软件   < installed_apps > 
+开始 应用 软件   < installed_apps > 
+请 开启   < installed_apps >   程序 
+想 开 应用   < installed_apps >   应用 软件 
+想 打开 程序   < installed_apps >   应用 软件 
+请 开始 软件   < installed_apps > 
+想 要 打开 应用 程序   < installed_apps > 
+用 应用   < installed_apps >   软件 
+想 要 执行   < installed_apps > 
+启用   < installed_apps >   应用 软件 
+< installed_apps >   用 
+启用 程序   < installed_apps >   应用 
+打开 程序   < installed_apps >   软件 
+想 用   < installed_apps >   应用 程序 
+请 执行   < installed_apps >   应用 软件 
+使用 程序   < installed_apps > 
+请 运行 应用   < installed_apps >   应用 程序 
+使用   < installed_apps >   应用 程序 
+想 启用 应用 程序   < installed_apps >   应用 
+执行 应用 软件   < installed_apps > 
+想 要 用   < installed_apps > 
+用   < installed_apps >   应用 程序 
+用 软件   < installed_apps > 
+请 开启 软件   < installed_apps >   应用 
+开始 应用 程序   < installed_apps > 
+请 启动 应用 程序   < installed_apps > 
+想 开 应用   < installed_apps >   程序 
+启动 应用   < installed_apps >   应用 程序 
+想 要 启用 应用   < installed_apps >   应用 
+请 开启 应用 软件   < installed_apps > 
+用 应用 程序   < installed_apps >   应用 
+请 使用 应用   < installed_apps >   软件 
+想 打开 程序   < installed_apps >   程序 
+请 用 应用   < installed_apps >   应用 软件 
+< installed_apps >   应用 运行 
+要 启动 应用   < installed_apps > 
+要 打开 应用 程序   < installed_apps > 
+想 用   < installed_apps >   程序 
+请 用 程序   < installed_apps > 
+运行 应用 软件   < installed_apps > 
+请 执行 程序   < installed_apps >   应用 
+想 用   < installed_apps >   应用 软件 
+想 要 使用   < installed_apps > 
+想 开   < installed_apps >   软件 
+使用   < installed_apps >   应用 软件 
+要 运行 应用   < installed_apps >   应用 
+请 开启 应用 程序   < installed_apps >   应用 
+请 用 应用 程序   < installed_apps > 
+开始   < installed_apps >   软件 
+要 启动   < installed_apps > 
+< installed_apps >   应用 请 运行 
+启用 应用   < installed_apps >   程序 
+请 开始   < installed_apps >   应用 软件 
+打开 软件   < installed_apps >   软件 
+请 启用 应用   < installed_apps >   程序 
+运行 应用 程序   < installed_apps > 
+< installed_apps >   应用 要 打开 
+请 开 应用   < installed_apps >   应用 程序 
+请 开启   < installed_apps >   应用 程序 
+想 要 使用 应用   < installed_apps > 
+想 运行 应用   < installed_apps >   应用 程序 
+请 打开 软件   < installed_apps >   应用 程序 
+想 执行   < installed_apps >   软件 
+< installed_apps >   请 使用 
+请 开始 应用   < installed_apps >   程序 
+想 开 应用 软件   < installed_apps > 
+请 开始 软件   < installed_apps >   应用 
+想 用 应用   < installed_apps >   程序 
+想 执行 程序   < installed_apps > 
+< installed_apps >   应用 请 启动 
+请 运行 应用 程序   < installed_apps > 
+执行 程序   < installed_apps > 
+要 使用 应用   < installed_apps > 
+要 用   < installed_apps > 
+想 要 启动 应用   < installed_apps >   应用 
+< installed_apps >   启动 
+请 用 软件   < installed_apps >   应用 
+请 使用 应用   < installed_apps >   程序 
+使用 应用 程序   < installed_apps >   应用 
+想 要 打开 应用 软件   < installed_apps > 
+想 开始 程序   < installed_apps > 
+想 执行   < installed_apps >   程序 
+想 运行 应用   < installed_apps >   程序 
+请 使用 应用 软件   < installed_apps > 
+请 开启 软件   < installed_apps > 
+请 打开 应用 程序   < installed_apps >   程序 
+启用 应用 程序   < installed_apps > 
+想 启用   < installed_apps >   应用 程序 
+要 运行   < installed_apps > 
+想 要 开启 应用   < installed_apps > 
+想 启动 程序   < installed_apps > 
+请 开始   < installed_apps >   软件 
+想 运行   < installed_apps >   应用 软件 
+请 运行   < installed_apps >   应用 软件 
+想 使用 应用 程序   < installed_apps > 
+< installed_apps >   想 启用 
+想 使用 应用   < installed_apps >   应用 软件 
+请 执行 软件   < installed_apps > 
+< installed_apps >   执行 
+开启   < installed_apps >   程序 
+要 打开 应用   < installed_apps >   应用 软件 
+用 应用   < installed_apps >   应用 程序 
+请 执行 程序   < installed_apps > 
+< installed_apps >   请 执行 
+开启 程序   < installed_apps >   应用 
+想 打开 应用 软件   < installed_apps >   应用 软件 
+请 使用 软件   < installed_apps > 
+要 执行   < installed_apps >   应用 
+想 开   < installed_apps >   应用 程序 
+请 开   < installed_apps >   应用 软件 
+请 开 软件   < installed_apps >   应用 
+想 要 执行 应用   < installed_apps >   应用 
+想 启用 应用   < installed_apps >   软件 
+执行 应用   < installed_apps >   程序 
+想 使用 应用 软件   < installed_apps > 
+想 启动   < installed_apps >   应用 程序 
+请 运行 程序   < installed_apps > 
+打开 应用 软件   < installed_apps >   程序 
+想 开始 应用 程序   < installed_apps > 
+请 开 应用 软件   < installed_apps > 
+想 打开 软件   < installed_apps >   应用 软件 
+运行 应用   < installed_apps >   软件 
+想 开始 应用   < installed_apps >   程序 
+启动 应用 程序   < installed_apps > 
+打开 软件   < installed_apps >   程序 
+要 打开   < installed_apps >   程序 
+请 启用 程序   < installed_apps > 
+想 开启 应用 软件   < installed_apps >   应用 
+想 使用 应用 软件   < installed_apps >   应用 
+请 运行   < installed_apps >   程序 
+请 打开 程序   < installed_apps >   软件 
+想 要 启动   < installed_apps > 
+请 使用   < installed_apps >   软件 
+想 运行 软件   < installed_apps > 
+想 用 应用 程序   < installed_apps >   应用 
+< installed_apps >   软件 打开 
+想 启用   < installed_apps >   程序 
+请 启动 应用   < installed_apps >   应用 程序 
+想 启动 应用   < installed_apps >   应用 程序 
+请 用 应用 软件   < installed_apps > 
+< installed_apps >   开 
+开 应用   < installed_apps >   应用 软件 
+< installed_apps >   想 执行 
+要 启用 应用   < installed_apps > 
+想 开启 程序   < installed_apps > 
+想 要 打开   < installed_apps >   应用 程序 
+请 启动 应用   < installed_apps >   软件 
+想 要 启用   < installed_apps >   应用 
+请 打开 程序   < installed_apps >   程序 
+< installed_apps >   应用 想 使用 
+用   < installed_apps >   应用 软件 
+想 开始 应用   < installed_apps >   应用 程序 
+想 要 打开 应用 软件   < installed_apps >   应用 
+请 启动 应用 软件   < installed_apps >   应用 
+要 开   < installed_apps >   应用 
+想 开启 软件   < installed_apps >   应用 
+想 用 程序   < installed_apps >   应用 
+< installed_apps >   应用 软件 想 打开 
+请 使用   < installed_apps >   应用 程序 
+开 软件   < installed_apps >   应用 
+想 要 启用   < installed_apps > 
+想 打开 软件   < installed_apps >   应用 程序 
+想 启动 应用   < installed_apps >   软件 
+想 要 启动 应用   < installed_apps > 
+执行   < installed_apps >   软件 
+请 运行 程序   < installed_apps >   应用 
+请 运行 软件   < installed_apps > 
+启动 应用   < installed_apps >   程序 
+< installed_apps >   应用 开 
+请 开始 应用   < installed_apps >   应用 程序 
+请 打开 软件   < installed_apps >   程序 
+请 启动 应用 软件   < installed_apps > 
+运行   < installed_apps >   应用 程序 
+想 要 用 应用   < installed_apps > 
+想 执行 程序   < installed_apps >   应用 
+< installed_apps >   请 开 
+要 开始   < installed_apps > 
+< installed_apps >   应用 启用 
+< installed_apps >   请 运行 
+开始 程序   < installed_apps > 
+< installed_apps >   应用 想 执行 
+想 打开 应用 程序   < installed_apps >   程序 
+请 开始 应用 软件   < installed_apps >   应用 
+< installed_apps >   应用 想 开 
+请 打开 应用 软件   < installed_apps >   应用 程序 
+请 启用   < installed_apps >   软件 
+要 使用   < installed_apps > 
+想 开启   < installed_apps >   应用 程序 
+想 使用   < installed_apps >   应用 程序 
+启动 软件   < installed_apps > 
+想 执行 软件   < installed_apps >   应用 
+开启 应用 软件   < installed_apps >   应用 
+想 开启 软件   < installed_apps > 
+想 打开 程序   < installed_apps >   软件 
+想 要   < app_shortcut > 
+请 运行 应用 软件   < installed_apps >   应用 
+想 启动 软件   < installed_apps > 
+请 开始 应用 程序   < installed_apps > 
+< installed_apps >   软件 想 打开 
+要 开启 应用   < installed_apps >   应用 
+执行 应用 软件   < installed_apps >   应用 
+请 执行 软件   < installed_apps >   应用 
+开始 软件   < installed_apps > 
+想 使用 应用   < installed_apps >   软件 
+要 运行 应用   < installed_apps > 
+想 开始 应用 软件   < installed_apps > 
+想 开启 应用 软件   < installed_apps > 
+请 用   < installed_apps >   软件 
+请 启用 程序   < installed_apps >   应用 
+开始 应用   < installed_apps >   程序 
+想 开启   < installed_apps >   软件 
+想 要 打开 应用   < installed_apps >   软件 
+启动 软件   < installed_apps >   应用 
+想 启用   < installed_apps >   软件 
+启用 软件   < installed_apps > 
+< installed_apps >   应用 启动 
+想 启动 应用 程序   < installed_apps > 
+使用 应用 程序   < installed_apps > 
+想 要 启动   < installed_apps >   应用 
+请 用 应用   < installed_apps >   应用 程序 
+打开 程序   < installed_apps >   程序 
+启动 应用 软件   < installed_apps > 
+想 启动 应用 软件   < installed_apps >   应用 
+运行 软件   < installed_apps > 
+< installed_apps >   应用 用 
+启动   < installed_apps >   应用 程序 
+请 启动 程序   < installed_apps >   应用 
+想 要 打开   < installed_apps >   应用 软件 
+执行   < installed_apps >   应用 软件 
+开 软件   < installed_apps > 
+请 运行 应用   < installed_apps >   应用 软件 
+开启 应用 程序   < installed_apps > 
+想 开始 应用 程序   < installed_apps >   应用 
+想 开始   < installed_apps >   应用 软件 
+用   < installed_apps >   程序 
+想 开启 应用   < installed_apps >   应用 软件 
+请 开启 应用   < installed_apps >   程序 
+请 开始 程序   < installed_apps >   应用 
+要 打开 应用   < installed_apps >   软件 
+想 启动 应用   < installed_apps >   程序 
+请 开始 应用 软件   < installed_apps > 
+想 启用 应用   < installed_apps >   应用 程序 
+想 开 应用 程序   < installed_apps >   应用 
+< installed_apps >   应用 想 运行 
+开 应用 程序   < installed_apps >   应用 
+想 开启 程序   < installed_apps >   应用 
+想 要 打开   < installed_apps >   程序 
+执行 应用   < installed_apps >   软件 
+使用 程序   < installed_apps >   应用 
+想 要 开始   < installed_apps > 
+想 打开 软件   < installed_apps >   程序 
+想 开启 应用   < installed_apps >   应用 程序 
+启动 应用 程序   < installed_apps >   应用 
+想 要 打开 程序   < installed_apps > 
+想 开 程序   < installed_apps > 
+< installed_apps >   请 开始 
+想 开启 应用   < installed_apps >   软件 
+请 开   < installed_apps >   软件 
+请 使用 应用 程序   < installed_apps > 
+使用 软件   < installed_apps > 
+请 执行 应用 程序   < installed_apps > 
+< installed_apps >   应用 想 开启 
+请 运行   < installed_apps >   应用 程序 
+打开 应用 软件   < installed_apps >   应用 程序 
+使用 应用 软件   < installed_apps >   应用 
+想 启动 软件   < installed_apps >   应用 
+想 用 应用   < installed_apps >   软件 
+想 开 应用   < installed_apps >   软件 
+想 启用 应用   < installed_apps >   应用 软件 
+< installed_apps >   应用 请 用 
+运行   < installed_apps >   程序 
+请 运行 软件   < installed_apps >   应用 
+想 启动 程序   < installed_apps >   应用 
+想 要 使用   < installed_apps >   应用 
+请 用 应用   < installed_apps >   软件 
+想 打开 应用 程序   < installed_apps >   应用 软件 
+请 启动   < installed_apps >   程序 
+要 开 应用   < installed_apps > 
+用 应用 程序   < installed_apps > 
+请 启用 应用 程序   < installed_apps > 
+想 执行 应用   < installed_apps >   软件 
+< installed_apps >   软件 请 打开 
+请 使用 软件   < installed_apps >   应用 
+开 程序   < installed_apps > 
+想 运行 程序   < installed_apps >   应用 
+想 执行   < installed_apps >   应用 软件 
+请 打开 应用 软件   < installed_apps >   应用 软件 
+想 运行   < installed_apps >   应用 程序 
+想 要 用   < installed_apps >   应用 
+< installed_apps >   想 启动 
+请 运行 应用 软件   < installed_apps > 
+打开 程序   < installed_apps >   应用 程序 
+开启 应用 软件   < installed_apps > 
+请 开启 应用   < installed_apps >   应用 程序 
+启动 程序   < installed_apps > 
+请 开启 应用 软件   < installed_apps >   应用 
+启用   < installed_apps >   软件 
+< installed_apps >   程序 打开 
+请 启用 应用   < installed_apps >   应用 程序 
+用 应用 软件   < installed_apps > 
+执行 应用 程序   < installed_apps > 
+想 要 开始 应用   < installed_apps > 
+要   < app_shortcut > 
+开 应用 软件   < installed_apps > 
+想 启动   < installed_apps >   软件 
+想 要 使用 应用   < installed_apps >   应用 
+想 执行 应用 软件   < installed_apps >   应用 
+使用 应用   < installed_apps >   应用 程序 
+要 启动   < installed_apps >   应用 
+启用 应用   < installed_apps >   应用 程序 
+要 开始 应用   < installed_apps > 
+想 要 打开 应用   < installed_apps >   应用 程序 
+要 开启   < installed_apps > 
+请 开 应用   < installed_apps >   程序 
+想 开 软件   < installed_apps > 
+想 运行 软件   < installed_apps >   应用 
+< installed_apps >   想 开启 
+< installed_apps >   要 打开 
+请 开 应用 程序   < installed_apps >   应用 
+运行 应用   < installed_apps >   程序 
+请 运行 应用   < installed_apps >   程序 
+请 运行   < installed_apps >   软件 
+打开 应用 程序   < installed_apps >   程序 
+请 使用 应用 程序   < installed_apps >   应用 
+用 应用   < installed_apps >   应用 软件 
+想 要 开始 应用   < installed_apps >   应用 
+请 启动   < installed_apps >   软件 
+想 启用 应用   < installed_apps >   程序 
+想 打开 应用 程序   < installed_apps >   软件 
+< installed_apps >   应用 程序 请 打开 
+想 启用 应用 软件   < installed_apps >   应用 
+< installed_apps >   想 要 打开 
+请 启用 应用   < installed_apps >   软件 
+想 运行   < installed_apps >   软件 
+< installed_apps >   应用 执行 
+启用 程序   < installed_apps > 
+请 开启 程序   < installed_apps >   应用 
+请 打开 程序   < installed_apps >   应用 程序 
+想 运行 应用   < installed_apps >   应用 软件 
+要 执行   < installed_apps > 
+想 要 执行 应用   < installed_apps > 
+请 启用   < installed_apps >   应用 程序 
+请 开始 应用 程序   < installed_apps >   应用 
+想 要 打开 应用   < installed_apps >   程序 
+开始 程序   < installed_apps >   应用 
+运行 程序   < installed_apps > 
+< installed_apps >   使用 
+想 要 打开 应用 程序   < installed_apps >   应用 
+执行 应用   < installed_apps >   应用 程序 
+请 开启   < installed_apps >   应用 软件 
+请 开始   < installed_apps >   应用 程序 
+启用 应用   < installed_apps >   软件 
+开启 应用   < installed_apps >   软件 
+要 打开 应用   < installed_apps >   应用 程序 
+要 执行 应用   < installed_apps > 
+< installed_apps >   应用 软件 请 打开 
+请 执行   < installed_apps >   应用 程序 
+请 开始 程序   < installed_apps > 
+要 打开 程序   < installed_apps > 
+打开 应用 软件   < installed_apps >   应用 软件 
+请 开 应用 程序   < installed_apps > 
+要 使用   < installed_apps >   应用 
+想 开始 应用   < installed_apps >   软件 
+要 用 应用   < installed_apps > 
+请 开 应用   < installed_apps >   应用 软件 
+要 启动 应用   < installed_apps >   应用 
+使用 软件   < installed_apps >   应用 
+请 开 程序   < installed_apps >   应用 
+想 执行 应用   < installed_apps >   应用 软件 
+想 要 运行 应用   < installed_apps > 
+使用 应用 软件   < installed_apps > 
+想 开 软件   < installed_apps >   应用 
+想 开启 应用   < installed_apps >   程序 
+请 启动   < installed_apps >   应用 程序 
+想 启用   < installed_apps >   应用 软件 
+请 用   < installed_apps >   应用 程序 
+运行   < installed_apps >   应用 软件 
+要 使用 应用   < installed_apps >   应用 
+想 要 开   < installed_apps >   应用 
+打开 应用 程序   < installed_apps >   应用 程序 
+想 开始   < installed_apps >   应用 程序 
+启用   < installed_apps >   应用 程序 
+< installed_apps >   请 启动 
+启用 软件   < installed_apps >   应用 
+开始 应用   < installed_apps >   应用 软件 
+想 开始 软件   < installed_apps >   应用 
+请 启动 应用   < installed_apps >   应用 软件 
+请 开启 应用   < installed_apps >   应用 软件 
+要 开 应用   < installed_apps >   应用 
+执行 软件   < installed_apps >   应用 
+启用 应用 软件   < installed_apps >   应用 
+想 开始 应用 软件   < installed_apps >   应用 
+想 开始 程序   < installed_apps >   应用 
+打开 程序   < installed_apps >   应用 软件 
+< installed_apps >   想 开 
+想 用 应用   < installed_apps >   应用 程序 
+开启   < installed_apps >   软件 
+< installed_apps >   应用 使用 
+想 打开 应用 程序   < installed_apps >   应用 程序 
+执行 应用 程序   < installed_apps >   应用 
+想 开 应用 软件   < installed_apps >   应用 
+< installed_apps >   应用 软件 打开 
+想 启用 应用 软件   < installed_apps > 
+请 启用   < installed_apps >   应用 软件 
+想 运行 应用 软件   < installed_apps >   应用 
+开始 应用 软件   < installed_apps >   应用 
+请 开始   < installed_apps >   程序 
+请 启用   < installed_apps >   程序 
+请 打开 应用 程序   < installed_apps >   应用 软件 
+请 开   < installed_apps >   应用 程序 
+想 启用 软件   < installed_apps > 
+开 应用   < installed_apps >   软件 
+想 要 开   < installed_apps > 
+开   < installed_apps >   软件 
+想 开启   < installed_apps >   程序 
+请 开 应用   < installed_apps >   软件 
+想 启动 应用 程序   < installed_apps >   应用 
+< installed_apps >   应用 开启 
+开 应用   < installed_apps >   程序 
+想 启用 程序   < installed_apps > 
+请 用 程序   < installed_apps >   应用 
+要 打开 程序   < installed_apps >   应用 
+用 软件   < installed_apps >   应用 
+请 启用 应用 软件   < installed_apps >   应用 
+打开 应用 程序   < installed_apps >   应用 软件 
+< installed_apps >   运行 
+要 打开 应用   < installed_apps >   程序 
+< installed_apps >   应用 程序 想 打开 
+要 开始 应用   < installed_apps >   应用 
+想 要 运行   < installed_apps >   应用 
+请 启动 应用   < installed_apps >   程序 
+请 使用 应用 软件   < installed_apps >   应用 
+< installed_apps >   想 运行 
+想 运行 程序   < installed_apps > 
+想 使用 应用 程序   < installed_apps >   应用 
+使用 应用   < installed_apps >   软件 
+请 执行 应用   < installed_apps >   应用 软件 
+想 要 打开 程序   < installed_apps >   应用 
+请 使用 应用   < installed_apps >   应用 程序 
+想 运行 应用   < installed_apps >   软件 
+想 要 执行   < installed_apps >   应用 
+开 程序   < installed_apps >   应用 
+开启 软件   < installed_apps >   应用 
+请 启用 应用 程序   < installed_apps >   应用 
+请 执行 应用 程序   < installed_apps >   应用 
+想 用 应用 程序   < installed_apps > 
+想 使用   < installed_apps >   应用 软件 
+想 执行 应用   < installed_apps >   程序 
+开启 应用 程序   < installed_apps >   应用 
+启动 应用   < installed_apps >   软件 
+想 开启 应用 程序   < installed_apps > 
+请 启用 软件   < installed_apps >   应用 
+想 使用 应用   < installed_apps >   程序 
+想 启动   < installed_apps >   应用 软件 
+启用 应用 软件   < installed_apps > 
+要 开启 应用   < installed_apps > 
+请 启用 应用 软件   < installed_apps > 
+想 要 开启   < installed_apps > 
+想 运行 应用 软件   < installed_apps > 
+想 打开 应用 软件   < installed_apps >   软件 
+< installed_apps >   想 使用 
+想 要 开始   < installed_apps >   应用 
+开启 应用   < installed_apps >   应用 软件 
+开始 应用   < installed_apps >   应用 程序 
+开始 软件   < installed_apps >   应用 
+< installed_apps >   应用 开始 
+想 开启 应用 程序   < installed_apps >   应用 
+请 开始 应用   < installed_apps >   应用 软件 
+开   < installed_apps >   应用 软件 
+请 打开 应用 程序   < installed_apps >   软件 
+请 使用 应用   < installed_apps >   应用 软件 
+请 开 程序   < installed_apps > 
+想 执行   < installed_apps >   应用 程序 
+< installed_apps >   应用 请 开启 
+请 用 应用 程序   < installed_apps >   应用 
+打开 应用 程序   < installed_apps >   软件 
+想 运行 应用 程序   < installed_apps >   应用 
+用 程序   < installed_apps > 
+执行   < installed_apps >   应用 程序 
+请 启动   < installed_apps >   应用 软件 
+想 启动 应用 软件   < installed_apps > 
+运行 程序   < installed_apps >   应用 
+启动 应用 软件   < installed_apps >   应用 
+想 运行 应用 程序   < installed_apps > 
+要 运行   < installed_apps >   应用 
+要 打开   < installed_apps >   软件 
+想 启用 应用 程序   < installed_apps > 
+要 开始   < installed_apps >   应用 
+想 开 应用 程序   < installed_apps > 
+请 开   < installed_apps >   程序 
+要 用   < installed_apps >   应用 
+想 使用 应用   < installed_apps >   应用 程序 
+执行 软件   < installed_apps > 
+执行   < installed_apps >   程序 
+< installed_apps >   请 开启 
+启用 应用 程序   < installed_apps >   应用 
+请 开启 程序   < installed_apps > 
+请 打开 软件   < installed_apps >   软件 
+要 开启   < installed_apps >   应用 
+请 开启 应用   < installed_apps >   软件 
+想 执行 应用 程序   < installed_apps >   应用 
+< installed_apps >   请 用 
+要 打开 应用 软件   < installed_apps > 
+执行 程序   < installed_apps >   应用 
+想 要 运行   < installed_apps > 
+想 要 开 应用   < installed_apps > 
+想 开   < installed_apps >   应用 软件 
+想 用   < installed_apps >   软件 
+< installed_apps >   应用 请 使用 
+想 开 程序   < installed_apps >   应用 
+使用 应用   < installed_apps >   程序 
+请 用   < installed_apps >   应用 软件 
+想 使用 软件   < installed_apps > 
+开启 应用   < installed_apps >   应用 程序 
+请 打开 软件   < installed_apps >   应用 软件 
+< installed_apps >   程序 想 打开 
+要 启用 应用   < installed_apps >   应用 
+想 用 应用 软件   < installed_apps >   应用 
+运行   < installed_apps >   软件 
+请 打开 应用 软件   < installed_apps >   程序 
+请 开启 应用 程序   < installed_apps > 
+想 执行 应用   < installed_apps >   应用 程序 
+请 启用 应用   < installed_apps >   应用 软件 
+请 执行   < installed_apps >   软件 
+想 要 打开 软件   < installed_apps >   应用 
+执行 应用   < installed_apps >   应用 软件 
+开 应用 软件   < installed_apps >   应用 
+请 开 应用 软件   < installed_apps >   应用 
+开 应用   < installed_apps >   应用 程序 
+想 开始 软件   < installed_apps > 
+< installed_apps >   应用 想 用 
+想 执行 应用 程序   < installed_apps > 
+要 打开   < installed_apps >   应用 软件 
+要 打开   < installed_apps >   应用 程序 
+想 打开 应用 软件   < installed_apps >   程序 
+运行 应用 软件   < installed_apps >   应用 
+< installed_apps >   开启 
+< installed_apps >   应用 请 启用 
+请 启动 应用 程序   < installed_apps >   应用 
+使用   < installed_apps >   软件 
+想 要 打开 应用   < installed_apps >   应用 软件 
+请 用 应用 软件   < installed_apps >   应用 
+< installed_apps >   应用 请 开始 
+启用   < installed_apps >   程序 
+想 用 应用 软件   < installed_apps > 
+想 启动 应用   < installed_apps >   应用 软件 
+开始   < installed_apps >   应用 程序 
+开 应用 程序   < installed_apps > 
+打开 应用 软件   < installed_apps >   软件 
+想 使用 程序   < installed_apps > 
+开   < installed_apps >   程序 
+请 运行 应用   < installed_apps >   软件 
+开启 程序   < installed_apps > 
+请 启动 软件   < installed_apps > 
+开   < installed_apps >   应用 程序 
+请 用   < installed_apps >   程序 
+开启 软件   < installed_apps > 
+< installed_apps >   请 启用 
+想 用 程序   < installed_apps > 
+用 应用 软件   < installed_apps >   应用 
+启动   < installed_apps >   应用 软件 
+用 程序   < installed_apps >   应用 
+想 开始 应用   < installed_apps >   应用 软件 
+要 开   < installed_apps > 
+想 开 应用   < installed_apps >   应用 程序 
+想 启用 软件   < installed_apps >   应用 
+想 要 开启   < installed_apps >   应用 
+用 应用   < installed_apps >   程序 
+启动 应用   < installed_apps >   应用 软件 
+想 启用 程序   < installed_apps >   应用 
+想 开始   < installed_apps >   软件 
+请 打开 应用 程序   < installed_apps >   应用 程序 
+想 使用   < installed_apps >   程序 
+想 要 运行 应用   < installed_apps >   应用 
+请 用 软件   < installed_apps > 
+启用 应用   < installed_apps >   应用 软件 
+想 开始   < installed_apps >   程序 
+< installed_apps >   应用 想 启动 
+< installed_apps >   应用 想 启用 
+想 要 打开   < installed_apps >   软件 
+< installed_apps >   应用 请 开 
+想 打开 程序   < installed_apps >   应用 程序 
+< installed_apps >   想 用 
+想 要 用 应用   < installed_apps >   应用 
+运行 应用   < installed_apps >   应用 程序 
+请 执行   < installed_apps >   程序 
+要 打开 软件   < installed_apps >   应用 
+< installed_apps >   应用 想 要 打开 
+请 使用 程序   < installed_apps > 
+开始 应用   < installed_apps >   软件 
+< installed_apps >   开始 
+请 执行 应用 软件   < installed_apps >   应用 
+< installed_apps >   应用 请 执行 
+打开 应用 
+执行 应用 
+开启 应用 
+启动 应用 
+应用 打开 
+打开 应用 软件 
+启用 应用 
+打开 程序 
+运行 应用 
+打开 软件 
+打开 应用 程序 
+使用 应用 
+应用 
+开 应用 
+开始 应用 
+用 应用 
+执行 软件 
+用 软件 
+开启 应用 软件 
+启用 应用 程序 
+开 应用 软件 
+使用 应用 程序 
+运行 软件 
+开 软件 
+开启 应用 程序 
+应用 程序 打开 
+开 应用 程序 
+执行 应用 软件 
+程序 打开 
+用 程序 
+程序 
+开始 程序 
+使用 软件 
+启动 应用 程序 
+应用 启动 
+开始 软件 
+应用 启用 
+应用 执行 
+启动 程序 
+启用 程序 
+应用 用 
+软件 
+应用 运行 
+用 应用 软件 
+启用 软件 
+开启 软件 
+应用 软件 
+运行 应用 软件 
+应用 软件 打开 
+运行 应用 程序 
+应用 开 
+开启 程序 
+应用 使用 
+应用 开启 
+使用 程序 
+执行 程序 
+启用 应用 软件 
+开始 应用 软件 
+用 应用 程序 
+开始 应用 程序 
+开 程序 
+使用 应用 软件 
+软件 打开 
+启动 软件 
+应用 程序 
+应用 开始 
+运行 程序 
+执行 应用 程序 
+启动 应用 软件 
+应用   < installed_apps > 
+< installed_apps > 
+< installed_apps >   应用 
+应用   < installed_apps >   应用 
+应用   < installed_apps >   应用 软件 
+软件   < installed_apps >   应用 
+应用   < installed_apps >   软件 
+应用   < installed_apps >   程序 
+应用 程序   < installed_apps >   应用 
+< installed_apps >   程序 
+应用 软件   < installed_apps >   应用 
+程序   < installed_apps >   应用 
+程序   < installed_apps > 
+应用 软件   < installed_apps > 
+应用   < installed_apps >   应用 程序 
+应用 程序   < installed_apps > 
+< installed_apps >   应用 软件 
+软件   < installed_apps > 
+< installed_apps >   应用 程序 
+< installed_apps >   软件 
+软件   < installed_apps >   软件 
+应用 软件   < installed_apps >   应用 程序 
+应用 软件   < installed_apps >   应用 软件 
+应用 软件   < installed_apps >   软件 
+软件   < installed_apps >   应用 程序 
+应用 程序   < installed_apps >   程序 
+程序   < installed_apps >   应用 程序 
+程序   < installed_apps >   软件 
+软件   < installed_apps >   程序 
+程序   < installed_apps >   应用 软件 
+应用 程序   < installed_apps >   软件 
+应用 软件   < installed_apps >   程序 
+应用 程序   < installed_apps >   应用 程序 
+软件   < installed_apps >   应用 软件 
+程序   < installed_apps >   程序 
+应用 程序   < installed_apps >   应用 软件 
+< common_apps >   应用 
+应用   < common_apps >   应用 
+应用   < common_apps > 
+< common_apps > 
+< common_apps >   应用 软件 
+应用   < common_apps >   软件 
+应用 软件   < common_apps > 
+应用   < common_apps >   程序 
+程序   < common_apps > 
+应用   < common_apps >   应用 程序 
+程序   < common_apps >   应用 
+< common_apps >   应用 程序 
+软件   < common_apps >   应用 
+应用 程序   < common_apps >   应用 
+< common_apps >   软件 
+软件   < common_apps > 
+应用   < common_apps >   应用 软件 
+< common_apps >   程序 
+应用 程序   < common_apps > 
+应用 软件   < common_apps >   应用 
+软件   < common_apps >   应用 软件 
+应用 程序   < common_apps >   应用 程序 
+应用 程序   < common_apps >   软件 
+软件   < common_apps >   程序 
+应用 程序   < common_apps >   应用 软件 
+应用 软件   < common_apps >   软件 
+应用 软件   < common_apps >   应用 软件 
+程序   < common_apps >   软件 
+应用 程序   < common_apps >   程序 
+软件   < common_apps >   软件 
+应用 软件   < common_apps >   程序 
+软件   < common_apps >   应用 程序 
+程序   < common_apps >   程序 
+程序   < common_apps >   应用 软件 
+应用 软件   < common_apps >   应用 程序 
+程序   < common_apps >   应用 程序 
+不 
+不 用 
+取消 
+拒绝 
+没关系 
+不要 
+不 安装 
+别 
+关掉 
+请 不 安装 
+不必 
+请 没关系 安装 
+请 不 装 
+取消 安装 
+请 不 下载 
+请 关掉 安装 
+请 不要 安装 
+请 别 安装 
+不要 安装 
+请 不 下 吧 
+不 下载 
+拒绝 安装 
+别 安装 
+不 设置 
+请 不 设置 
+不 用 安装 
+请 不必 安装 
+不 装 
+请 不 用 安装 
+请 取消 安装 
+请 拒绝 安装 
+不安 
+请 不 下 
+不必 安装 
+请 不安 
+没关系 安装 
+不 下 
+关掉 安装 
+不 下 吧 
+好 
+安装 
+请 安装 
+装 
+是的 
+是 
+行 
+继续 
+下 
+可以 
+下载 
+允许 
+好 安装 
+要 
+安 
+恩 
+设置 
+确定 
+下 吧 
+嗯 
+好 下 
+允许 安装 
+要 安装 
+继续 安装 
+恩 安装 
+是的 安装 
+好 设置 
+嗯 安装 
+请 下载 
+请 装 
+好 下载 
+请安 
+请 设置 
+确定 安装 
+行 安装 
+可以 安装 
+好 下 吧 
+请 下 
+好 装 
+是 安装 
+好 安 
+请 下 吧 
